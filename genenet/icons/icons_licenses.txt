@@ -1,0 +1,9 @@
+Icons were downloads for free from https://www.iconfinder.com
+
+zoom_in.png by Yannick Lung
+License: Free for commercial use. 
+
+pan.png by Robert Szczepanek
+License: Creative Commons Attribution-Share Alike 3.0 Unported License
+(Include LICENSE.TXT in work)
+
