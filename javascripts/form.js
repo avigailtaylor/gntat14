@@ -5,13 +5,6 @@ createform.setAttribute("action", ""); // Setting Action Attribute on Form
 createform.setAttribute("method", "post"); // Setting Method Attribute on Form
 x.appendChild(createform);
 
-
-var line = document.createElement('hr'); // Giving Horizontal Row After Heading
-createform.appendChild(line);
-
-var linebreak = document.createElement('br');
-createform.appendChild(linebreak);
-
 var namelabel = document.createElement('label'); // Create Label for Name Field
 namelabel.innerHTML = "Your Name : "; // Set Field Labels
 createform.appendChild(namelabel);
